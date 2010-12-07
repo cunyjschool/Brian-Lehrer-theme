@@ -1,0 +1,12 @@
+/*
+Theme Name: Twenty Ten Child
+Description: Child theme for the Twenty Ten theme 
+Author: Your name here
+Template: twentyten
+*/
+
+@import url("../twentyten/style.css");
+
+#site-title a {
+    color: #009900;
+}
